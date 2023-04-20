@@ -11,7 +11,7 @@ end
 
 EventUtil.ContinueOnAddOnLoaded("Blizzard_Calendar", function()
    CalendarViewEventAcceptButton:HookScript("OnClick", function()
-      j = decode(jokes[math.random(#jokes)]))
+      j = decode(jokes[math.random(#jokes)])
       SendChatMessage(j, "GUILD") 
    end
    )
