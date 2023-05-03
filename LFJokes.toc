@@ -1,7 +1,7 @@
-## Interface: 100007
-## Title: Looking for Jokes2
+## Interface: 100100
+## Title: Looking for Jokes
 ## Notes: An add-on that displays a joke when accepting an event invite
-## Version: 0.1
-## Author: Ki-DerAbyssischeRat
+## Version: 0.2
+## Author: Ki-DieTodeskrallen
 LFJokes.lua
 Jokes.lua
