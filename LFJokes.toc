@@ -1,4 +1,4 @@
-## Interface: 100200
+## Interface: 100205
 ## Title: Looking for Jokes
 ## Notes: An add-on that displays a joke when accepting an event invite
 ## Version: 0.3.1
